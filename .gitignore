@@ -3,3 +3,5 @@ __pycache__/
 pdfs/
 sandbox/
 .DS_Store
+.empty/
+ps3/pset3.ipynb
