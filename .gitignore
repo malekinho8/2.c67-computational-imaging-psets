@@ -4,4 +4,8 @@ pdfs/
 sandbox/
 .DS_Store
 .empty/
-ps3/pset3.ipynb
+ps3/pset3-malek.ipynb
+ps3/pset3_sol.ipynb
+build/
+*.tex
+PSET6-1_files/
